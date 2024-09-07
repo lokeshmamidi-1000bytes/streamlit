@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-anthropic
+python-dotenv
+transformers
+csv
